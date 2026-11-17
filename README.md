@@ -7,7 +7,7 @@
 
 - meno výstupného súboru: **obyvatelstvo.txt**
 
-- vytvoríme si python virtual env a naištalujeme package
+- vytvoríme si python virtual env a nainštalujeme package
 
 ```bash
 python -m venv <nas_lubovolny_nazov_virtual_env>
