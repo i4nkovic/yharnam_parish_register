@@ -5,6 +5,8 @@
   - výška
   - adresa
 
+- meno výstupného súboru: **obyvatelstvo.txt**
+
 - vytvoríme si python virtual env a naištalujeme package
 
 ```bash
